@@ -1,0 +1,2 @@
+def skajz:
+  return z
