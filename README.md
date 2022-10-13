@@ -1,1 +1,1 @@
-# aims-file
+# AiIMS-file
